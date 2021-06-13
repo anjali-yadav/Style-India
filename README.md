@@ -29,7 +29,7 @@ Go to frontend folder <br />
 `PORT = 8080` <br />
 `NODE_ENV=Development` <br />
 `MONGO_URI = your mongodb uri ` <br />
-JWT_KEY = abced128989
+`JWT_KEY = abced128989` <br />
 ## 4. Seed database <br />
 Go to backend folder <br />
 `cd backend` <br />
